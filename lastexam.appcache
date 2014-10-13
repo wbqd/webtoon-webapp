@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# Version 1
+
+CACHE:
+content/main.png
+content/profile.png
+content/webtoon.png
+css/ratchet.min.css
+css/style.css
+fonts/ratchicons.eot
+fonts/ratchicons.svg
+fonts/ratchicons.ttf
+fonts/ratchicons.woff
+js/ratchet.min.js
