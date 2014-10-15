@@ -1,26 +1,16 @@
-
 #webtoon {
-
   width: 100%;
-
 }
 
 .bg {
-
   background-position: center center;
-
   background-size: 100%;
-
 }
 
-#main {
-
-  background-image: url(/contents/main.png);
-
+#home {
+  background-image: url(/contents/home.png);
 }
 
-#profile {
-
-  background-image: url(/contents/profile.png);
-
+#about {
+  background-image: url(/contents/about.png);
 }
